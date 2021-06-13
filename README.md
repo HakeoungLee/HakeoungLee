@@ -4,4 +4,4 @@
 - 📫 Feel free to reach out via email: hahak2242@gmail.com   
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HakeoungLee)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HakeoungLee&layout=compact)
