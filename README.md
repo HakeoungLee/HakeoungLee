@@ -5,7 +5,7 @@
 - 📫 Feel free to reach out via email: hklee@utexas.edu 
 
  
-- [Personal Website Link](https://www.linkedin.com/in/hk-h-lee/)
+- [Personal Website Link](https://www.hakeounghannahlee.com/)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HakeoungLee&layout=compact)
