@@ -8,5 +8,5 @@
 - [Blog Link](https://HakeoungLee.github.io/)
 
 
-#![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HakeoungLee&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HakeoungLee&layout=compact)
 
